@@ -11,4 +11,4 @@ Esse projeto foi feito com base no tutorial do Youtube - Girl Coding.<br /><br/>
 
 ## 🚀 Starting
 
-Para iniciar o projeto, basta abrir o link `https://nathaliafelix31.github.io/Responsive-Cards/` em seu navegador preferido. 
+Para iniciar o projeto, basta abrir o link https://nathaliafelix31.github.io/Responsive-Cards/ em seu navegador preferido. 
